@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yna:home|Door43 (yna)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yna|d43-yna repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yna/archive/master.zip|d43-yna.zip]]
+
+**Recent Changes**
+{{changes>ns = yna}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yna|Ethnologue data]]
+
